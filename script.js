@@ -1,9 +1,10 @@
 
 let texte = document.querySelector("texte");
 
-// modifie la vitesse 
+
+// modifier la vitesse 
 texte.setAttribute = "absolue";
 
   
-// modifie la direction
+// modifier la direction
     texte.setAttribute("diection" , "down")
